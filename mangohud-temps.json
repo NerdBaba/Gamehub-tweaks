@@ -1,0 +1,10 @@
+
+{
+	"id": "temps",
+	"name": "Mangohud-Temperature",
+	"description": "Show CPU and GPU Temperature in Mangohud",
+	"url": "https://github.com/DadSchoorse/vkBasalt",
+	"env": {
+		"MANGOHUD_CONFIG": "cpu_temp,gpu_temp"
+	}
+}

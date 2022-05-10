@@ -1,0 +1,9 @@
+{
+	"id": "fsr",
+	"name": "FSR",
+	"description": "FidelityFX Super Resolution",
+	"url": "https://github.com/DadSchoorse/vkBasalt",
+	"env": {
+		"WINE_FULLSCREEN_FSR": "1"
+	}
+}
